@@ -1,4 +1,4 @@
-INDEX
+1. Folder index.php
 <?PHP
 
 //panggil koneksi Database
@@ -201,7 +201,7 @@ include "koneksi.php";
 
 </html>
 
-CRUD
+2. Folder aksi_crud.php
 <?php
 
 //panggil koneksi database
@@ -275,7 +275,7 @@ if (isset($_POST['bhapus'])) {
         }
 }
 
-KONEKSI
+3. Folder koneksi.php
 <?php
 
 //Koneksi Database
